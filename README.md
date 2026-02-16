@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an aspiring AI Engineer</p>
+<p align="center">I'm an aspiring AI Engineer</p>
 
 ###
 
